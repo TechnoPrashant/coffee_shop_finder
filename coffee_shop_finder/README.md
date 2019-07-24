@@ -19,7 +19,7 @@ Any IDE with Flutter SDK installed (ie. IntelliJ, Android Studio, VSCode etc)<p>
 A little knowledge of Dart and Flutter
 A brain to think
 
-# Suppoert library 
+# Support library 
 - <a href="https://github.com/akshathjain/sliding_up_panel">SlidingUpPanel</a>
 - <a href="https://pub.dev/packages/page_view_indicator">page_view_indicator</a>
 - <a href="https://pub.dev/packages/google_maps_flutter">google_maps_flutter</a>
