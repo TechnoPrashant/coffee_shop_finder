@@ -8,10 +8,10 @@
 - Bottom Menu 
 - Bottom SliderUp.
 
-Star⭐ the repo if you like what you see😉.
-
 # Demo
 <img src="https://github.com/Prashant09mca/coffee_shop_finder/blob/master/coffee_shop_finder/coffee.gif"/>
+
+<h3> ⭐ Star the repo if you like what you see. ⭐</h3>
 
 # Requirements
 Any Operating System (ie. MacOS X, Linux, Windows)<p>
@@ -36,3 +36,6 @@ Lab: <a href="https://flutter.dev/docs/get-started/codelab">Make your First Flut
 Cookbook: <a href="https://flutter.dev/docs/cookbook">Usefull Flutter Demos</a>
 
 For help getting started with Flutter, view our <a href="https://flutter.dev/docs">Flutter Document</a>, which offers tutorials, samples, guidance on mobile development, and a full API reference.<a href="https://flutter.dev/docs">Flutter Document</a>
+
+# ☕️ Donate
+ <a href="https://www.buymeacoffee.com/technoprashant" target="_blank"><img src="https://bmc-cdn.nyc3.digitaloceanspaces.com/BMC-button-images/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
